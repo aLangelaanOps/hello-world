@@ -1,2 +1,2 @@
 # hello-world2
-This is an exercise
+Hello this is me, I am learing how gitHub works.
